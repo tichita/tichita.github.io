@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'LeferiPoint-WhiteObliqueA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteObliqueA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LeferiPoint-WhiteA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-WhiteA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LeferiBaseType-RegularA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiBaseType-RegularA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* .headerAlign2{
+    display: flex;
+    justify-content:space-between;
+} */
+/* section {
+    margin-top: 10px;
+    background-image: url(../images/rocks-1869970.jpg);
+    background-size: cover;
+    height: 80vh;
+} */
+
+/* :link, :visited{
+    color: #837b6b;
+    text-decoration: none;
+    transition: 150ms ;
+} */
+
+/* #signIn{
+    text-align: end;
+} */
+/* #gitIcon{
+    height: 70px;
+    border-radius: 50%;
+} */
+/* footer{
+    display: flex;
+    align-items: center;
+    justify-content: center
+    
+} */

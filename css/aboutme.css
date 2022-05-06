@@ -1,0 +1,47 @@
+/* #aboutMe div#aboutMeContainer{
+    height: 80vh;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#aboutMe #section1>h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 35px;
+    color: #4b463d;
+}
+#aboutMe table{
+    border: solid #4b463d;
+    border-collapse: collapse;
+    margin-top: 100px;
+    margin: auto;
+    
+}
+#aboutMe th,td{
+    border: solid #4b463d;
+    font-size: 25px;
+    padding: 20px 30px 20px 40px;
+    text-align: left;
+    color : #837b6b;
+    
+}
+
+#aboutMe image {
+    display: box;
+}
+#aboutMeContainer {
+    margin: 0px;
+    background-color: #c2c9d652;
+}
+#aboutMe #codingImg{
+    position:relative;
+}     */
+
+/* #aboutMe #section2{
+    position: relative;
+    top: 100px;
+} */
+/* #aboutMe :link, #aboutMe :visited{
+    color: #837b6b;
+    text-decoration-line: none;
+} */

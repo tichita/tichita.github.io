@@ -1,0 +1,19 @@
+<svg width="504" height="508" viewBox="0 0 504 508" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_2_4)">
+<circle cx="250" cy="250" r="250" fill="#C4C4C4"/>
+</g>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="30" font-style="italic" font-weight="300" letter-spacing="0em"><tspan x="201.104" y="330.409">project</tspan></text>
+<text fill="black" stroke="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="60" font-style="italic" font-weight="bold" letter-spacing="0em"><tspan x="121.123" y="212.318">Personal&#10;</tspan><tspan x="90.5371" y="285.318">Homepage&#10;</tspan></text>
+<defs>
+<filter id="filter0_d_2_4" x="-4" y="0" width="508" height="508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_4"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_4" result="shape"/>
+</filter>
+</defs>
+</svg>

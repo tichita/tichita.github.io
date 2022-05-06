@@ -1,0 +1,99 @@
+#logIn {
+    background-image: url(images/rocks-1869970.jpg);
+    background-size: cover;
+    
+
+}
+
+#logIn_section {
+    margin: 0px;
+    position: relative;
+    border-radius: 3px;
+    overflow-y: auto;
+    display: flex;
+}
+
+#signIn_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.inputBox {
+    border: 1.7px solid #c2c9d6;
+    width: 200px;
+    height: 30px;
+    margin-top: 8px;
+}
+
+.item {
+    width: 30vh;
+    padding: 20px 0 0 0;
+    align-items: center;
+}
+
+.section_button {
+    color: #e6e4e1;
+    border: none;
+    border-bottom-style: solid;
+    background-color: #7b849600;
+    font-size: 15px;
+    padding: 10px 0 0 0;
+    cursor: pointer;
+}
+
+p{
+    margin: 0;
+    margin-bottom:30px;
+}
+
+button[type=submit] {
+
+    width: 200px;
+    height: 30px;
+    background-color: #7b8496dd;
+    border: 3px solid #7b8496;
+    box-shadow: #6b7483 1px 1px 2px;
+    font-size: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 25px;
+    border-bottom: 1px dashed #7b8496;
+    text-align: center;
+}
+
+input,
+select {
+    border: none;
+    background-color: #f4f6f8;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+#section2 {
+    width: 200px;
+
+    background-color: #7b8496dd;
+    color: #e6e4e1;
+
+    font-size: 20px;
+}
+
+#section1 {
+    background-color: #f4f6f8;
+    width: 400px;
+}
+.section2_container{
+    /* border: #6b7483 solid; */
+    padding: 5px 0 0 10px;
+
+}
+input:focus{
+    outline: none;
+}

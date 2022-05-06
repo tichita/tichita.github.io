@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'LeferiBaseType-RegularA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiBaseType-RegularA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+:root {
+    background-color: #f4f6f8;
+    color: #837b6b;
+}
+#section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section{
+    /* height: 100vh; */
+    width: 50vh; 
+    margin: 0 140px;
+}
+p.circleContent{
+    display: inline;
+}
+.circle{
+    display: inline;
+    box-sizing: content-box;
+    border-radius: 50%;
+    width: 130px; /* section.height*0.2*/
+    height: 130px;/* section.height*0.2*/
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    background-color: #6c7d9d;
+    box-shadow: 1px 1px 3px 1px #6b7483;
+    cursor: pointer;
+}
+#bar{
+
+    width: 30px;
+    position: relative;
+    background-color: #e1e5eb;
+    /* box-shadow: 1px 1px 1px 1px #6d624b; */
+
+}
+p.circleContent{
+    position: relative;
+    top: 40%;
+    font-size: 18px;
+    font-weight: 700;
+    color: #e1dcd2;
+    text-shadow: 1px 1px 1px #4b5871;
+}
+
+#roadmap{
+ display: flex;
+ /* border-top: 3px solid #caced3; */
+ border-bottom: 3px solid #caced3;
+ justify-content: center;
+}
+#section2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+div#triangle{
+    border: #f4f6f8 solid 70px;
+    border-top: #e1e5eb solid 70px;
+    border-bottom: 0;
+    width: 0;
+    height: 0;
+    position: relative;
+}
+article{
+    border: 3px solid #caced3;
+    padding: 0 20px; 
+    background-color: #e1e5eb;
+    /* margin: 50px 10px 100px 10px; */
+    box-shadow: 2px 1px 8px #caced3;
+    font-family:  GmarketSansLight, LeferiBaseType-RegularA;
+    font-size: 20px;
+    display: none;
+}
+h2{
+    font-family: LeferiBaseType-RegularA;
+    text-align: center;
+    
+}
+section ul{
+    list-style: none;
+    line-height: 190%;
+}
+section li::before{
+    content: "⌨ ";
+}
+

@@ -1,0 +1,80 @@
+:root {
+    background-color: #f4f6f8;
+    color: #837b6b;
+}
+ header {
+     width: 15vh;
+ }
+ #logo{
+     width: 100px;
+ }
+ #container{
+     background-image:url(images/rocks-1869970.jpg);
+     background-size:cover;
+     height: 80vh;
+ }
+ #signUp{
+     background-color: #f4f6f8;
+
+     margin: auto;
+     width: fit-content;
+     /* border: 10px solid saddlebrown; */
+     position: relative;
+    top: 100px;
+    border-radius: 3px;
+    overflow-y: auto;
+ }
+form{
+    width: 90vh;
+    margin-top: 20px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+
+ .input_box{
+     border:1.7px solid #c2c9d6;
+     width: 200px;
+     height: 30px;
+     margin-top: 8px;
+ }
+
+ .item{
+     width: 30vh;
+     padding:10px 0px 0 20px ;
+     align-items: center;
+ }
+
+ button[type=submit]{
+
+     width: 200px;
+     height: 30px;
+     background-color: #9aa6bc;
+     border: 3px solid #7b8496;
+     box-shadow: #6b7483 1px 1px 2px;
+    font-size: 20px;
+    margin-top: 15px;
+
+ }
+ h1 {
+     margin: 0;
+    padding:20px;
+     text-align: center;
+     border-bottom: 1px dashed #7b8496;
+ }
+select {
+    width: 200px;
+    appearance: none;
+    height: 25px;
+}
+input, select {
+    border:none;
+    background-color: #f4f6f8;
+    padding-left: 10px;
+}
+p {
+    padding-left: 30px;
+}
